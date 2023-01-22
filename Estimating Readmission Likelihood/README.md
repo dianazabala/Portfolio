@@ -1,6 +1,6 @@
-#Estimating Likelihood of Hospital Readmission for Coronary Artery Bypass Graft Surgery Patients: 
+# Estimating Likelihood of Hospital Readmission for Coronary Artery Bypass Graft Surgery Patients: 
 
-##Project report, R script, graphs, output
+## Project report, R script, graphs, output
 
 This exercise deals with simulated administrative healthcare claims found in the file USN_claims_test_data.csv
 
