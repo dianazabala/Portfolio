@@ -2,7 +2,7 @@
 
 ## Project report, R script, graphs, output
 
-This exercise deals with simulated administrative healthcare claims found in the file USN_claims_test_data.csv
+This exercise deals with simulated administrative healthcare claims found in the file USN_claims_test_data.csv (SYNTHETIC - not real patient data)
 
 Tasks:
 1. Subsetted the dataset to the population at risk, admissions for patients undergoing isolated
